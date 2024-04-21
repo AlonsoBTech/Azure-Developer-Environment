@@ -37,4 +37,4 @@ What we will be using and creating:
 
 ## <a name="quick-guide">🤸 Quick Guide</a>
 
-**COMING SOON!!**
+**QUICK GUIDE COMING SOON!!**
